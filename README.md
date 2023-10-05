@@ -3,7 +3,7 @@ This is your go to website for CCBIO906/CancerGenomics course information.
     
 ![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/74e24652-2f04-43ac-baa0-dc2616ccf58e)
 
-**ThisSite:** https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023     
+**This site:** https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023     
 **Contact:** erling.hoivik@uib.no   
 
 ### Course description
