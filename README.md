@@ -17,9 +17,9 @@ Tuesday 24.10: Auditorium 4, BB-building
 Wednesday 25.10: The auditorium in Armauer Hansens hus     
 Thursday 26.10: The conference room, BB-building (across from Aud. 2/stairs)       
 
-### Readling list/Literature
+### 1) Readling list/Literature
 https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023_v2.pdf      
 
-### Program/TimeSchedule
+### 2) Program/TimeSchedule
 https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf      
       
