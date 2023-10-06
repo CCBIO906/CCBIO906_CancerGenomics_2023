@@ -4,7 +4,7 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 ![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/74e24652-2f04-43ac-baa0-dc2616ccf58e)
 
 **This site:** https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023     
-**Topic responsible:** erling.hoivik@uib.no   
+**Main responsible:** erling.hoivik@uib.no   
 **Course coordinator:** siren.fromreide@uib.no
 
 ### Course description
@@ -17,9 +17,9 @@ Tuesday 24.10: Auditorium 4, BB-building
 Wednesday 25.10: The auditorium in Armauer Hansens hus     
 Thursday 26.10: The conference room, BB-building (across from Aud. 2/stairs)       
 
-### 1) Readling list/Literature
+### 1) Reading list/Literature
 https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023_v2.pdf      
 
-### 2) Program/TimeSchedule
+### 2) Program/Time schedule
 https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf      
       
