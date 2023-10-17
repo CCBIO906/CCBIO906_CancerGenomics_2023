@@ -21,7 +21,8 @@ Thursday 26.10: The conference room, BB-building (across from Aud. 2/stairs)
 https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023_v2.pdf      
 
 ### 2) Program/Time schedule
-https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf      
+~~https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf~~    
+https://www.uib.no/sites/w3.uib.no/files/attachments/a03_ccbio906_timeplan_eah2023_v3.pdf     
 
 ### 3) Pre-Question assignment
 https://skjemaker.app.uib.no/view.php?id=15299108     
