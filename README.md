@@ -27,4 +27,33 @@ https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah20
 
 ### 3) Pre-Question assignment
 https://skjemaker.app.uib.no/view.php?id=15299108     
+
+### 4) Group work
+**Steps**    
+1) Agree on a question for the group 
+2) Present the idea 
+3) Work together towards 1-3 page document   
+4) Submit individually (link provided later)
+
+**Group 1:**         
+- May     
+- Siren    
+- Mari    
+
+**Group 2:**        
+- Lucrezia   
+- Vibecke   
+- Marte   
+
+**Group 3:**        
+- Martin    
+- Ragda    
+- Bjørn-Erik    
+
+**Group 4:**         
+- Zuzanna P    
+- Agnieszka    
+- Zuzanna K    
+- Alicja    
+
       
