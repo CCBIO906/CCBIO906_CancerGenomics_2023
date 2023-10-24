@@ -23,7 +23,9 @@ https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023
 ### 2) Program/Time schedule
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf~~       
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/a03_ccbio906_timeplan_eah2023_v3.pdf~~         
-https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah2023_v4.pdf      
+https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah2023_v4.pdf    
+![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/5cecc0ee-e2d1-4d98-897a-ed67f82a9c5d)
+
 
 ### 3) Pre-Question assignment
 https://skjemaker.app.uib.no/view.php?id=15299108     
