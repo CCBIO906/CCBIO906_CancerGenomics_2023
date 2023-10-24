@@ -63,7 +63,8 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 Entrance via the brigde directly from Haukeland Hospital, or via outside under the brigde.    
 Auditorium at ground floor.          
 Adress: Haukelandsveien 28, 5009 Bergen.    
-![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/1fdb833e-6da1-45cf-bfed-3ec6fb742511)
+![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/061731e4-ca2b-4e85-8ad4-9bbd864d9779)
+
 
 
 
