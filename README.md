@@ -59,7 +59,7 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 - Zuzanna K    
 - Alicja
 
-### 5) Location Thursday | "Armauer Hansens House", auditorium
+### 5) Location WEDNESDAY!! | "Armauer Hansens House", auditorium
 ![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/642eaff9-67d1-4946-b43f-326aa2389390)
 ![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/9868bd39-2317-4046-886d-2edd02073296)
 
