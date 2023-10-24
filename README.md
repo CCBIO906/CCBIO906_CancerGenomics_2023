@@ -30,7 +30,7 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 
 ### 4) Group work
 **Steps**    
-1) Agree on a question for the group 
+1) Agree on a question for the group (related to Cancer Genomics)       
 2) Present the idea 
 3) Work together towards 1-3 page document   
 4) Submit individually (by 09.Nov, link provided later)
