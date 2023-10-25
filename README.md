@@ -32,9 +32,10 @@ Now correct last update:
 Thursday we are back at the BBB building, the conferance room entrance is integrated in the concrete stairs at the same level as Aud 1/2/3.
 
 ### 2b) RB | "Structural variants" lecture
-Zoom link: xxxx     
-This lecture will include work from paper 2 from reading list.     
-Please re-read to prepare: https://www.nature.com/articles/s41586-019-1913-9       
+Topic: CCBIO906_CancerGenomics_zoom     
+Zoom link: Topic: https://uib.zoom.us/j/64470782789?pwd=U2wybUNJdDNjMS9BaHVuMHROVmhLQT09            
+This lecture will include work from paper 2 from reading list.         
+Please re-read to prepare: https://www.nature.com/articles/s41586-019-1913-9          
 
 ### 3) Pre-Question assignment
 https://skjemaker.app.uib.no/view.php?id=15299108     
