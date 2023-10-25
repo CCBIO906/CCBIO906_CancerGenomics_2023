@@ -23,10 +23,18 @@ https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023
 ### 2) Program/Time schedule
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/timeschedule_ccbio906_eah2023_v2.pdf~~       
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/a03_ccbio906_timeplan_eah2023_v3.pdf~~         
-https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah2023_v4.pdf   
+~~https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah2023_v4.pdf~~   
 
-![Daythree](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/5cecc0ee-e2d1-4d98-897a-ed67f82a9c5d)
+Now correct last update:   
+![DAY4](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/170b514f-7d17-4c77-94e7-e2f06acddcf0)
 
+**Thursday location:**     
+Thursday we are back at the BBB building, the conferance room entrance is integrated in the concrete stairs at the same level as Aud 1/2/3.
+
+### 2b) RB | "Structural variants" lecture
+Zoom link: xxxx     
+This lecture will include work from paper 2 from reading list.     
+Please re-read to prepare: https://www.nature.com/articles/s41586-019-1913-9       
 
 ### 3) Pre-Question assignment
 https://skjemaker.app.uib.no/view.php?id=15299108     
@@ -38,35 +46,16 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 3) Work together towards 1-3 page document   
 4) Submit individually (by 09.Nov, link provided later)
 
-**Group 1:**         
-- May     
-- Siren    
-- Mari    
-
-**Group 2:**        
-- Lucrezia   
-- Vibecke   
-- Marte   
-
-**Group 3:**        
-- Martin    
-- Ragda    
-- Bjørn-Erik    
-
+**Group 1:**           
+- May, Siren, Mari         
+**Group 2:**            
+- Lucrezia, Vibecke, Marte       
+**Group 3:**           
+- Martin, Ragda, Bjørn-Erik          
 **Group 4:**         
-- Zuzanna P    
-- Agnieszka    
-- Zuzanna K    
-- Alicja
+- Zuzanna P, Agnieszka, Zuzanna K, Alicja  
 
-### 5) Location WEDNESDAY!! | "Armauer Hansens House", auditorium
-![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/642eaff9-67d1-4946-b43f-326aa2389390)
-![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/9868bd39-2317-4046-886d-2edd02073296)
 
-Entrance via the brigde directly from Haukeland Hospital, or via outside under the brigde.    
-Auditorium at ground floor.          
-Adress: Haukelandsveien 28, 5009 Bergen.    
-![image](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/061731e4-ca2b-4e85-8ad4-9bbd864d9779)
 
 
 
