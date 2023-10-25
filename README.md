@@ -46,14 +46,14 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 3) Work together towards 1-3 page document   
 4) Submit individually (by 09.Nov, link provided later)
 
-**Group 1:**           
-- May, Siren, Mari         
-**Group 2:**            
-- Lucrezia, Vibecke, Marte       
-**Group 3:**           
-- Martin, Ragda, Bjørn-Erik          
-**Group 4:**         
-- Zuzanna P, Agnieszka, Zuzanna K, Alicja  
+**Group 1:**                      
+- May, Siren, Mari                 
+**Group 2:**                  
+- Lucrezia, Vibecke, Marte              
+**Group 3:**                 
+- Martin, Ragda, Bjørn-Erik               
+**Group 4:**            
+- Zuzanna P, Agnieszka, Zuzanna K, Alicja         
 
 
 
