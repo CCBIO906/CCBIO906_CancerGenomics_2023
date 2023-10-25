@@ -47,13 +47,17 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 4) Submit individually (by 09.Nov, link provided later)
 
 **Group 1:**                              
-- May, Siren, Mari                 
+- May, Siren, Mari
+             
 **Group 2:**                  
-- Lucrezia, Vibecke, Marte              
+- Lucrezia, Vibecke, Marte
+        
 **Group 3:**                 
-- Martin, Ragda, Bjørn-Erik               
+- Martin, Ragda, Bjørn-Erik
+       
 **Group 4:**            
-- Zuzanna P, Agnieszka, Zuzanna K, Alicja         
+- Zuzanna P, Agnieszka, Zuzanna K, Alicja
+   
 
 
 
