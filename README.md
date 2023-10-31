@@ -56,7 +56,7 @@ A short feedback on the assignment will be provided.
 Most of the lectures are available here (200MB download).    
 In a few cases a referring paper is added instead of lecture slides.          
 https://filesender.sikt.no/?s=download&token=a8331457-8f6b-4281-b7c7-408876d7b075           
-File available for download until late November.     
+File available for download within November.     
 **Please, these are only intended for your use, do not forward or share to anyone else.**             
 
 ### 7) Course feedback
