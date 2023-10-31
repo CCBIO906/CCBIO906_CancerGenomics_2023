@@ -61,7 +61,7 @@ File available for download within November.
 
 ### 7) Course feedback
 Please, 2 min of you time for feedback on course would be much appreciated.             
-No name, completely anonymous response!        
+No name, completely anonymous response! Click and go!            
 https://skjemaker.app.uib.no/view.php?id=15303004     
 
 ## Thanks! 
