@@ -25,19 +25,7 @@ https://www.uib.no/sites/w3.uib.no/files/attachments/literature_ccbio906_eah2023
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/a03_ccbio906_timeplan_eah2023_v3.pdf~~         
 ~~https://www.uib.no/sites/w3.uib.no/files/attachments/a04_ccbio906_timeplan_eah2023_v4.pdf~~   
 
-Now correct last update:   
-![DAY4](https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023/assets/147002279/170b514f-7d17-4c77-94e7-e2f06acddcf0)
-
-**Thursday location:**     
-Thursday we are back at the BBB building, the conferance room entrance is integrated in the concrete stairs at the same level as Aud 1/2/3.
-
-### 2b) RB | "Structural variants" lecture
-Topic: CCBIO906_CancerGenomics_zoom     
-Zoom link: Topic: https://uib.zoom.us/j/64470782789?pwd=U2wybUNJdDNjMS9BaHVuMHROVmhLQT09            
-This lecture will include work from paper 2 from reading list.         
-Please re-read to prepare: https://www.nature.com/articles/s41586-019-1913-9          
-
-### 3) Pre-Question assignment
+### 3) Pre-Question assignment (Assignment 1) 
 https://skjemaker.app.uib.no/view.php?id=15299108     
 
 ### 4) Group work
@@ -59,6 +47,24 @@ https://skjemaker.app.uib.no/view.php?id=15299108
 **Group 4:**            
 - Zuzanna P, Agnieszka, Zuzanna K, Alicja
    
+### 5) Submission group work assignment (Assignment 2)
+Please submit here: https://skjemaker.app.uib.no/view.php?id=15302303       
+Strict deadline 09. November 2023.   
+A short feedback on the assignment will be provided.  
+
+### 6) Lecture slides available
+Most of the lectures are available here (200MB download).    
+In a few cases a referring paper is added instead of lecture slides.          
+https://filesender.sikt.no/?s=download&token=a8331457-8f6b-4281-b7c7-408876d7b075           
+File available for download until late November.     
+**Please, these are only intended for your use, do not forward or share to anyone else.**             
+
+### 7) Course feedback
+Please, 2 min of you time for feedback on course would be much appreciated.             
+No name, completely anonymous response!        
+https://skjemaker.app.uib.no/view.php?id=15303004     
+
+## Thanks! 
 
 
 
