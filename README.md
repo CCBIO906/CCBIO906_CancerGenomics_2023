@@ -5,7 +5,6 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 
 **This site:** https://github.com/CCBIO906/CCBIO906_CancerGenomics_2023     
 **Main responsible:** erling.hoivik@uib.no   
-**Course coordinator:** siren.fromreide@uib.no
 
 ### Course description
 https://www.uib.no/emne/CCBIO906     
