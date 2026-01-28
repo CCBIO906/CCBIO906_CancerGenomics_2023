@@ -13,7 +13,7 @@ https://www.uib.no/en/ccbio/163441/ccbio906-cancer-genomics-2023
 
 ### End note
 This course has now concluded.    
-Thanks to all student and lectureres that made this course a great success.     
+Thanks to all students and lectureres that made this course a great success.     
 
 EAH    
 
